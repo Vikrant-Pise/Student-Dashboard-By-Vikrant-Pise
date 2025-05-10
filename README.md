@@ -6,13 +6,13 @@ A modern, responsive React application for managing student information with Fir
 
 ## Features
 
-- 🔐 **Secure Authentication**: Firebase-based email/password authentication
-- 📱 **Responsive Design**: Optimized for both desktop and mobile devices
-- 🌓 **Dark Mode**: Toggle between light and dark themes
-- 🎨 **Modern UI**: Clean, card-based interface with smooth transitions
-- ⚡ **Real-time Updates**: Instant feedback with toast notifications
-- 🔍 **Advanced Filtering**: Filter students by course
-- ✨ **Form Validation**: Comprehensive input validation with error feedback
+-  **Secure Authentication**: Firebase-based email/password authentication
+-  **Responsive Design**: Optimized for both desktop and mobile devices
+-  **Dark Mode**: Toggle between light and dark themes
+-  **Modern UI**: Clean, card-based interface with smooth transitions
+-  **Real-time Updates**: Instant feedback with toast notifications
+-  **Advanced Filtering**: Filter students by course
+-  **Form Validation**: Comprehensive input validation with error feedback
 
 ## Tech Stack
 
