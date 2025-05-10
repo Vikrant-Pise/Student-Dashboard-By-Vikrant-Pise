@@ -2,7 +2,11 @@
 
 A modern, responsive React application for managing student information with Firebase authentication and real-time updates.
 
-![Student Dashboard Preview](src/assets/Dashboard.png)
+## Dashboard Preview
+![Student Dashboard Preview](./src/assets/Dashboard.png)
+
+## Login Page (Dark Mode)
+![Login Page Dark Mode](./src/assets/Login%20Page%20(Dark%20mode).png)
 
 ## Features
 
