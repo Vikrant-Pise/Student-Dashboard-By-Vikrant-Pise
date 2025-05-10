@@ -1,4 +1,4 @@
-# Student Management Dashboard
+# Student Management Dashboard - Vikrant Pise
 
 A modern, responsive React application for managing student information with Firebase authentication and real-time updates.
 
